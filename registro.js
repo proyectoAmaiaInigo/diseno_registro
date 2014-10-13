@@ -20,3 +20,6 @@ function valida(f) {
 
         }
       }
+function verRegistro(f){
+  alert("FUNCIONA");
+}
